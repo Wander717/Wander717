@@ -1,16 +1,21 @@
-## Hi there 👋
+🚨 Olá, eu sou o Wanderson! 🚨
 
-<!--
-**Wander717/Wander717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim: 
 
-Here are some ideas to get you started:
+📝 Atualmente estou estudando: 
+✅ Python;
+✅ Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Tenho conhecimentos (básicos) em: 
+✅ Postgree SQL;
+✅ C;
+✅ C++;
+✅ JavaScript;
+✅ PHP.
+
+
+📌 Linkedin: https://www.linkedin.com/in/wanderson-ricardo-2b54271b3/
+
+
+
+
