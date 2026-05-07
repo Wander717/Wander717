@@ -17,7 +17,7 @@
 📅 Concluído em: 12/2023 &nbsp;|&nbsp; 📍 Caçapava - SP
 
 
-**Banco de Dados** — FATEC - Prof. Jessen Vidal\
+**Tecnólogo em Banco de Dados** — FATEC - Prof. Jessen Vidal\
 📅 Previsão de formatura: 07/2028 &nbsp;|&nbsp; 📍 São José dos Campos - SP
 
 ---
