@@ -1,21 +1,112 @@
-🚨 Olá, eu sou o Wanderson! 🚨
+<h1 align="center">👋 Olá, eu sou o Wanderson!</h1>
+<h3 align="center">Tecnólogo na área de Tecnologia</h3>
 
-Sobre mim: 
+<p align="center">
+  <a href="https://www.linkedin.com/in/wanderson-ricardo-2b54271b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wandersonrsantos01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-📝 Atualmente estou estudando: 
-✅ Python;
-✅ Java.
+---
 
-📝 Tenho conhecimentos (básicos) em: 
-✅ Postgree SQL;
-✅ C;
-✅ C++;
-✅ JavaScript;
-✅ PHP.
+## 🎓 Formações
 
-
-📌 Linkedin: https://www.linkedin.com/in/wanderson-ricardo-2b54271b3/
-
-
+**Técnico em Análise e Desenvolvimento de Sistemas** — ETEC Machado de Assis\
+📅 Concluído em: 12/2023 &nbsp;|&nbsp; 📍 Caçapava - SP
 
 
+**Banco de Dados** — FATEC - Prof. Jessen Vidal\
+📅 Previsão de formatura: 07/2028 &nbsp;|&nbsp; 📍 São José dos Campos - SP
+
+---
+
+## 🧠 Um pouquinho sobre mim...
+
+Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou no
+2º semestre do curso de Banco de Dados na FATEC e estou enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
+Estou em busca da minha primeira oportunidade na área, afim de poder acompanhar de perto os profissionais mais experientes e evoluir minhas habilidades técnicas e interpessoais.
+
+---
+
+## 🛠️ O que sei trabalhar
+
+### 💬 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Projetos Acadêmicos
+
+> Projetos desenvolvidos durante a graduação — cada um com um problema real para resolver.
+
+### 🔹 Calculadora de sequências lógicas - 1º Semestre (concluído)
+**Calculadora capaz de realizar diversas operações e funções matemáticas.**
+
+- 🛠️ **Stack:** `Portugol`
+- 📌 **O que aprendi:** Elaboração de algoritmos de programação (funções)
+- 🔗 **[Ver repositório »](https://github.com/guismdonofrio/api_datasquad-calculadora)**
+
+---
+
+### 🔹 Gestão acadêmica (Swift Plan) - 2º Semestre (em andamento)
+**Aplicativo com a finalidade de facilitar a vida do cliente (professor).**
+
+O propósito principal é eliminar a principal dor do nosso cliente: A organização das aulas e dos temas requerem muito tempo e procedimentos do professor, o que acaba resultando em maior incidência de erros. Nosso objetivo é facilitar a vida do cliente, deixando a organização de tudo mais prático e rápido possível.
+
+- 🛠️ **Stack:** `Java` · `JavaFX` · `MySQL`
+- 🔗 **[Ver repositório »](https://github.com/guismdonofrio/api_datasquad-gestaoacademica)**
+
+---
+
+## 💪 Projetos Pessoais
+
+> Projetos desenvolvidos durante a graduação e por iniciativa própria.
+
+### 🔹 Farmácia
+**Sistema de Cadastro (simulação)**
+
+Meu primeiro projeto pessoal em Java envolvendo CRUD, afim de compreender melhor como é feita a conexão entre código e SGDB.
+
+- 🛠️ **Stack:** `Java` · `JavaFX` · `MySQL`
+- 📌 **O que aprendi:** Conexão com SGDB e manipulação de dados via interface gráfica
+- 🔗 **[Ver repositório »](https://github.com/Wander717/Farmacia)**
+
+---
+## 📚 Estudando agora
+
+Coisas que estou aprendendo por conta própria, fora da grade curricular:
+
+- 🔍 Cardinalidade
+- 🔍 Elaboração de DER's (Diagrama de Entidade e Relacionamento)
+- 🔍 Formas Normais (N2, N2 e N3)
+- 🔍 JavaFX
+- 🔍 Java + MySQL
+
+---
+
+## 📬 Contatos
+
+
+| Canal       | Link                                                                 |
+|-------------|----------------------------------------------------------------------|
+| 💼 LinkedIn | [Linkedin](https://www.linkedin.com/in/wanderson-ricardo-2b54271b3/) |
+| 📧 E-mail   | [wandersonrsantos01@gmail.com](mailto:wandersonrsantos01@gmail.com)  |
