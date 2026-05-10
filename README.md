@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Um pouquinho sobre mim...
+## 🧠 Um pouco sobre mim...
 
 Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou no
 2º semestre do curso de Banco de Dados na FATEC e estou enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
@@ -34,22 +34,22 @@ Estou em busca da minha primeira oportunidade na área, afim de poder acompanhar
 
 ### 💬 Linguagens
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
 </p>
 
 ### 🗄️ Bancos de Dados
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Ferramentas
 <p>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ O propósito principal é eliminar a principal dor do nosso cliente: A organiza�
 
 ## 💪 Projetos Pessoais
 
-> Projetos desenvolvidos durante a graduação e por iniciativa própria.
+> Projetos desenvolvidos durante a graduação, por iniciativa própria.
 
 ### 🔹 Farmácia
 **Sistema de Cadastro (simulação)**
@@ -100,6 +100,7 @@ Coisas que estou aprendendo por conta própria, fora da grade curricular:
 - 🔍 Formas Normais (N2, N2 e N3)
 - 🔍 JavaFX
 - 🔍 Java + MySQL
+- 🔍 CSS
 
 ---
 
