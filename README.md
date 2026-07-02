@@ -24,8 +24,8 @@
 
 ## 🧠 Um pouco sobre mim...
 
-Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou no
-2º semestre do curso de Banco de Dados na FATEC e estou enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
+Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou concluindo o 
+2º semestre do curso de Banco de Dados na FATEC e enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
 Estou em busca da minha primeira oportunidade na área, afim de poder acompanhar de perto os profissionais mais experientes e evoluir minhas habilidades técnicas e interpessoais.
 
 ---
@@ -61,18 +61,20 @@ Estou em busca da minha primeira oportunidade na área, afim de poder acompanhar
 ### 🔹 Calculadora de sequências lógicas - 1º Semestre (concluído)
 **Calculadora capaz de realizar diversas operações e funções matemáticas.**
 
-- 🛠️ **Stack:** `Portugol`
+- 🛠️ **Stack:** `Portugol` . `GIT`
 - 📌 **O que aprendi:** Elaboração de algoritmos de programação (funções)
 - 🔗 **[Ver repositório »](https://github.com/guismdonofrio/api_datasquad-calculadora)**
 
 ---
 
-### 🔹 Gestão acadêmica (Swift Plan) - 2º Semestre (em andamento)
+### 🔹 Gestão acadêmica (Swift Plan) - 2º Semestre (concluído)
 **Aplicativo com a finalidade de facilitar a vida do cliente (professor).**
 
-O propósito principal é eliminar a principal dor do nosso cliente: A organização das aulas e dos temas requerem muito tempo e procedimentos do professor, o que acaba resultando em maior incidência de erros. Nosso objetivo é facilitar a vida do cliente, deixando a organização de tudo mais prático e rápido possível.
+Trata-se de um sistema de gestão acadêmica, onde nele podemos gerenciar: Cursos, disciplinas, temas, coordenadores e professores. Além disso, temos o destaque 
+do nosso projeto, que é a área de planejamento e estatísticas das aulas, facilitando a vida dos professores com as organizações das aulas (já ministradas ou não) em função 
+das datas do calendário acadêmico da FATEC.
 
-- 🛠️ **Stack:** `Java` · `JavaFX` · `MySQL`
+- 🛠️ **Stack:** `Java` · `JavaFX` · `MySQL` . `GIT`
 - 🔗 **[Ver repositório »](https://github.com/guismdonofrio/api_datasquad-gestaoacademica)**
 
 ---
