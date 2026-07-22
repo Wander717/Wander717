@@ -93,6 +93,17 @@ Meu primeiro projeto pessoal em Java envolvendo CRUD, afim de compreender melhor
 - 🔗 **[Ver repositório »](https://github.com/Wander717/Farmacia)**
 
 ---
+
+### 🔹 Swiftplan+ (Em desenvolvimento)
+
+Uma versão melhorada do meu projeto (API) desenvolvido e apresentado no 2º semestre da FATEC, tendo como principal destaque a adição de um log (registros dos usuários)
+
+- 🛠️ **Stack:** `Java` · `JavaFX` · `MySQL`
+- 📌 **O que aprendi:** Organização de classes, métodos e atributos, afim de melhorar o entendimento do código.
+- 🔗 **[Ver repositório »](https://github.com/Wander717/swiftplan_plus.git)**
+
+---
+
 ## 📚 Estudando agora
 
 Coisas que estou aprendendo por conta própria, fora da grade curricular:
