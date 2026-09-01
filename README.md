@@ -24,8 +24,8 @@
 
 ## 🧠 Um pouco sobre mim...
 
-Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou concluindo o 
-2º semestre do curso de Banco de Dados na FATEC e enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
+Sou estudante na área de Tecnologia da Informação, com interesse em desenvolvimento de sistemas, banco de dados e suporte técnico. Atualmente estou no 3º semestre do 
+curso de Banco de Dados na FATEC SJC e enfrentando vários desafios, sendo alguns deles: Trabalhos em equipe, gestão de pessoas, programação, modelagem de dados, etc.
 Estou em busca da minha primeira oportunidade na área, afim de poder acompanhar de perto os profissionais mais experientes e evoluir minhas habilidades técnicas e interpessoais.
 
 ---
